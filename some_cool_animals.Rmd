@@ -53,6 +53,12 @@ Here's where I want to have info on ringtails.
 ![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
 We will also learn about knitr::include_graphics()
 
+Add a few fun facts:
+
+- They can rotate their hind feet 180 degrees which makes them great at climbing
+- Closely related to and often mistaken for racoons
+- Very cute faces
+
 ###
 
 ----------
